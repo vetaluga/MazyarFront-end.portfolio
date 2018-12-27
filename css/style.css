@@ -316,6 +316,7 @@ a[href^="tel:"]:before {
 	}
 	.social-block img{
 		width: 30px;
+		height: 34px;
 	}
 	.footer-btn{
 		font-size: 14px;
